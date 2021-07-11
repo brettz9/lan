@@ -1,0 +1,243 @@
+{
+  "TEI.2": {},
+  "text": {},
+  "body": {},
+  "div1": {
+    "part": [
+      "N"
+    ],
+    "n": [
+      "T",
+      "v",
+      "g",
+      "k",
+      "t",
+      "w",
+      "n",
+      "z",
+      "d",
+      "Y1",
+      "S",
+      "s",
+      "f",
+      "E",
+      "m1",
+      "Y",
+      "l",
+      "h",
+      "j",
+      "x",
+      "q",
+      "$",
+      "Z",
+      "q1",
+      "n1",
+      "m",
+      "H",
+      "D",
+      "*",
+      "A",
+      "ق",
+      "w1",
+      "k1",
+      "h1",
+      "r",
+      "b"
+    ],
+    "org": [
+      "uniform"
+    ],
+    "sample": [
+      "complete"
+    ],
+    "type": [
+      "alphabetical letter",
+      "alphabetic letter"
+    ],
+    "xml:space": [
+      "preserve"
+    ]
+  },
+  "head": {
+    "lang": [
+      "ar"
+    ]
+  },
+  "div2": {
+    "part": [
+      "N"
+    ],
+    "n": [
+      "T",
+      "v",
+      "g",
+      "k",
+      "t",
+      "w",
+      "n",
+      "z",
+      "d",
+      "Y",
+      "S",
+      "s",
+      "f",
+      "E",
+      "m",
+      "l",
+      "h",
+      "j",
+      "x",
+      "q",
+      "$",
+      "Z",
+      "H",
+      "D",
+      "*",
+      "A",
+      "r",
+      "b"
+    ],
+    "org": [
+      "uniform"
+    ],
+    "sample": [
+      "complete"
+    ],
+    "type": [
+      "alphabetical letter",
+      "root"
+    ]
+  },
+  "entryFree": {
+    "id": [
+      "<excluded>"
+    ],
+    "key": [
+      "<excluded>"
+    ],
+    "type": [
+      "main"
+    ]
+  },
+  "form": {
+    "type": [
+      "R Q",
+      "Q Q",
+      "Q"
+    ],
+    "n": [
+      "infl"
+    ]
+  },
+  "itype": {},
+  "orth": {
+    "extent": [
+      "full"
+    ],
+    "lang": [
+      "ar",
+      "gr",
+      "he"
+    ],
+    "orig": [
+      "",
+      "Bu",
+      "Bi",
+      "Ba"
+    ],
+    "type": [
+      "arrow"
+    ]
+  },
+  "hi": {
+    "rend": [
+      "ital"
+    ]
+  },
+  "foreign": {
+    "lang": [
+      "ar",
+      "fa",
+      "pr",
+      "gr",
+      "tr"
+    ]
+  },
+  "milestone": {
+    "unit": [
+      "sense"
+    ],
+    "n": [
+      "1",
+      "2"
+    ]
+  },
+  "pb": {
+    "n": [
+      "<excluded>"
+    ]
+  },
+  "quote": {},
+  "L": {},
+  "G": {},
+  "H": {},
+  "Table": {},
+  "row": {
+    "role": [
+      "data"
+    ]
+  },
+  "cell": {
+    "role": [
+      "data"
+    ],
+    "rows": [
+      "1"
+    ],
+    "cols": [
+      "1"
+    ]
+  },
+  "teiHeader": {
+    "type": [
+      "text"
+    ],
+    "status": [
+      "new"
+    ]
+  },
+  "fileDesc": {},
+  "titleStmt": {},
+  "title": {},
+  "author": {},
+  "publicationStmt": {},
+  "publisher": {},
+  "pubPlace": {},
+  "authority": {},
+  "availability": {
+    "status": [
+      "free"
+    ]
+  },
+  "p": {},
+  "list": {},
+  "item": {},
+  "notesStmt": {},
+  "note": {
+    "anchored": [
+      "yes"
+    ],
+    "place": [
+      "unspecified"
+    ]
+  },
+  "sourceDesc": {},
+  "listBibl": {},
+  "biblStruct": {},
+  "analytic": {},
+  "monogr": {},
+  "imprint": {},
+  "date": {},
+  "sense": {},
+  "dictScrap": {}
+}

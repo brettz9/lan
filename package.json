@@ -1,0 +1,30 @@
+{
+  "name": "lan",
+  "version": "0.1.0",
+  "author": "alpheios-project",
+  "contributors": [],
+  "description": "Text version of Lane's Lexicon",
+  "license": "CC-BY-SA-3.0-US",
+  "keywords": [],
+  "main": "src/index.js",
+  "scripts": {
+    "sqlite": "node --max-old-space-size=8192 src/index.js --sqlite",
+    "uniqueElements": "node --max-old-space-size=8192 src/index.js --uniqueElements"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alpheios-project/lan.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alpheios-project/lan/issues"
+  },
+  "homepage": "https://github.com/alpheios-project/lan",
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.30.0",
+    "file-fetch": "^1.7.0",
+    "jsdom": "^16.6.0"
+  }
+}
